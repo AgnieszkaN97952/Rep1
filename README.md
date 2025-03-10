@@ -23,4 +23,5 @@ def rozpoznaj_morderce(pseudonim, tozsamosc_1, tozsamosc_2, tozsamosc_3):
     odpowiedz_uzytkownik = input("Kim tak naprawdę jest [...]? ")
     pass
 ```
+Swój kod wpisz do pliku "choose_who_is_killer.py"
 
